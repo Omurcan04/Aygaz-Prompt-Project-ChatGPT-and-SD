@@ -1,0 +1,52 @@
+FOR CHATGPT
+
+Please act like mentor.Now on we will create a portfolio website about Gods of Scandinavian Mythology.
+For this website we will use "HTML"," CDN for CSS" Bootstrap and JavaScript.
+Also this website must be sensitive for mobile.
+You are meant to give  HTML,CSS and JavaScript codes seperately.
+This website must include latest style and latest versions of whatever we use.
+Also further on we will use other AI platforms for images/gif's etc. Are you ready? Please answer yes or no.
+
+This website must have header, main, nav, section, article, aside, footer .
+I want this website looks really mythical coloring with blue dominated but red in it like mash-up this will be our background.
+For every Gods of  Scandinavian Mythology we need grills with photo of that god. And when i hover that photo returns to a gif.
+I need 6 grills for each site seperated to 2 lines.
+
+Now let's go to the beginning. And re-write our code. All the rules stay same. I need a logo top-left of my website.
+Under that i need a line with names of gods i have 6. And in the screen i need 6 squares with images in it. It must be hovered.
+And under the squares there is a text inclued god's names. My images should perfect fit to the squares.
+
+Now we should change the apperance. We have 6 squares. Make it bigger and right side of the squares there must be a text of abstract about god.
+This abstract has a title to link a spesific site of that god. I mean if we are looking to the Odin abstract that titles move us to the odin's page.
+
+Now rewrite our code again. Dont forget if you make a mistake or misunderstand me this is  gonna be your fault and you'll rewrite again.
+Now i want my website look like this. Give margin left and right equally. Top left there is gonna be my logo.
+Underthat there is gonna be "Scandinavian Mythology" centered text nearly half of the screen.
+And as we scroll down we are going to see god's picture at the left side and right side there is gonna be text about that god.
+All the pictures must be same size. Dont forget to use latest bootstrap and animations.
+
+
+
+Please act like a Mythology Proffessor. I'm writing a very proffessional essay about ODIN. But i need a example. Write me a essay. Make it a little long and complex.
+
+
+I need a logo for my website about Gods of Scandinavian. For this logo i need a promp to generate image. Give me good prompt to create excellent logo.
+
+FOR IMAGES
+"Design a logo featuring a stylized representation of Thor wielding Mjölnir against a backdrop of storm clouds.
+Utilize bold lines and dynamic shapes to convey his strength and power. Incorporate thunderbolt motifs and Norse runes to evoke the essence of thunder and lightning."
+
+"Design a logo embodying Loki's cunning and mischief, featuring his iconic silhouette against a backdrop of flickering flames.
+Utilize bold, angular lines to convey his unpredictable nature, with subtle hints of Norse knotwork symbolizing his shape-shifting abilities.
+Employ a playful yet sinister font to reflect his trickster persona."
+
+"Create a logo showcasing Sif amidst golden fields of wheat, her hair shimmering like strands of gold in the sunlight.
+Utilize gentle curves and organic shapes to evoke the abundance of the harvest season. Incorporate symbols of grain and fertility such as wheat stalks and overflowing baskets,
+while maintaining a sense of warmth and prosperity."
+
+"Design a logo featuring Freyr seated serenely amidst a tranquil forest setting, surrounded by symbols of peace and prosperity. Utilize flowing lines and serene colors to convey his benevolent nature.
+Incorporate motifs such as doves, olive branches, and sunbursts to evoke a sense of harmony and abundance."
+
+"Create a logo showcasing Hel seated upon her throne within the dark depths of the underworld, surrounded by swirling mists and shadowy spirits.
+Utilize deep hues of midnight black, ominous purples, and haunting greens to evoke the eerie atmosphere of the realm of the dead.
+Incorporate motifs of skeletal hands, ghostly apparitions, and twisted roots to symbolize Hel's dominion over life and death."

@@ -1,0 +1,148 @@
+/* Custom CSS */
+
+/* Adjust margin between text and logo */
+.section-title {
+  margin-top: 120px;
+   margin-bottom: 120px;/* Adjust as needed */
+  font-size: 150px; /* Increase font size for the text */
+}
+
+.god-card {
+  margin-bottom: 150px; /* Adjust as needed */
+  display: flex;
+  transition: transform 0.3s ease; /* Add transition for smooth effect */
+  align-items: flex-start; /* Align items at the start of the flex container */
+
+}
+
+.god-details {
+  padding: 20px;
+}
+
+.god-details h2 {
+  margin-top: 0;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  position: fixed; /* Position the footer fixed at the bottom */
+  bottom: 0; /* Align the footer to the bottom of the viewport */
+  width: 100%; /* Make the footer span the full width of the viewport */
+}
+
+/* Ensure paragraph expands horizontally */
+.god-details p {
+  flex-grow: 1;
+}
+
+/* Resize all images to the same width and height */
+
+.god-card img {
+  width: 200px; /* Set the desired width */
+  height: 200px; /* Set the desired height */
+  object-fit: cover; /* Ensure images maintain aspect ratio and cover the container */
+  width: 200px; /* Set width of the card */
+  height: 200px; /* Set height of the card */
+  border-radius: 30px; /* Round the corners */
+  box-shadow: 0 0 50px rgba(100, 100, 200, 3);
+  border:4px solid #444;
+  animation: shadow-animation 5s infinite alternate;
+}
+
+/* Add hover effect */
+.god-card:hover {
+  transform: translateY(-5px); /* Move the card up by 5px on hover */
+}
+
+/* styles.css */
+
+/* Apply the IM Fell English font to all text */
+body {
+    font-family: 'IM Fell English', serif;
+}
+
+/* Increase the font size of the section title */
+.section-title {
+    font-size: 48px; /* Adjust the font size as needed */
+    margin-top: 20px;
+    text-align: center; /* Center the text */
+}
+
+/* Center the god's name */
+.god-details h2 {
+    font-size: 24px;
+    text-align: center; /* Center the text */
+}
+
+/* Adjust other styles as needed */
+.god-details p {
+    font-size: 18px;
+}
+
+.footer {
+    font-size: 16px;
+    /* Other footer styles */
+}
+
+
+
+/* ODIN */
+/* Custom Styles */
+.odin-header {
+  background-image: url('odin_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+  color: #fff;
+  background-color: #d9d4d4;
+}
+
+.odin-image-sm {
+  width: 500px; /* Adjust image size as needed */
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 200, 1);
+  margin-bottom: 50px;
+}
+
+.odin-title {
+  font-size: 48px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-bottom: 30px;
+  color: #000; /* Set text color to black */
+  font-family: 'IM Fell English', serif; /* Apply specified font family */
+}
+
+.odin-info {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0 auto; /* Center the text horizontally */
+  max-width: 600px; /* Limit text width */
+  color: #333;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+@keyframes shadow-animation {
+  0% {
+    box-shadow: 0 0 50px rgba(255, 0, 0, 0.5); /* Red shadow */
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5); /* Green shadow */
+  }
+  100% {
+    box-shadow: 0 0 75px rgba(0, 0, 255, 0.5); /* Blue shadow */
+  }
+}
+
